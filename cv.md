@@ -14,6 +14,13 @@ Start a career as a js-developer and in five years have the skills of a senior d
   - [CSS basic](https://www.codecademy.com/AliaksandrZhur)
   - [Git basik](https://www.codecademy.com/AliaksandrZhur)
 
+###Code examples
+```javascript
+    function greeting() {
+	    alert("Hello!");
+	}
+```
+
 ###My experience
 Solving algorithmic problems within "The Rolling Scopes School" course
 
