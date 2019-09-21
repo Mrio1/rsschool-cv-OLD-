@@ -22,7 +22,7 @@ Start a career as a js-developer and in five years have the skills of a senior d
 ```
 
 ###My experience
-Solving algorithmic problems within "The Rolling Scopes School" course
+Solving algorithmic problems within "The Rolling Scopes School" course ([GitHub repositories](https://github.com/Mrio1?tab=repositories))
 
  ###Education
  - Belarusian National Technical University, Minsk - Building engineer;
