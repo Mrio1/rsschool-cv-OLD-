@@ -11,6 +11,11 @@
     background-color: #d8d8d8
 }
 
+img {
+    position: absolute;
+    right: 100px;
+}
+
 h3 {
     margin-right: 300px;
     border-bottom: 2px solid black;
