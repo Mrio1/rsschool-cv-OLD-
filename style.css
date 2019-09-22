@@ -1,0 +1,27 @@
+.body, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    padding: 20px;
+    background-color: #d8d8d8
+}
+
+h3 {
+    margin-right: 300px;
+    border-bottom: 2px solid black;
+}
+
+ul, p {
+    display: inline-block;
+    padding: 15px;
+    background-color: #c9c60f;
+}
+
+li {
+    margin-left: 10px;
+}
