@@ -30,3 +30,14 @@ ul, p {
 li {
     margin-left: 10px;
 }
+
+.code {
+    list-style: decimal;
+}
+.code span {
+    margin-left: 12px;
+}
+
+.code li:nth-child(2) span {
+    margin-left: 24px;
+}
