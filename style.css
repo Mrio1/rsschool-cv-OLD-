@@ -12,6 +12,7 @@
     margin: auto;
     padding: 20px;
     background: rgba(0, 0, 0, 0.87);
+<<<<<<< HEAD
 }
 
 header {
@@ -19,6 +20,15 @@ header {
     position: relative;
 }
 
+=======
+}
+
+header {
+    order: 1;
+    position: relative;
+}
+
+>>>>>>> 5faeed1 (fix: code block and header markup)
 h1 {
     position: absolute;
     margin-top: 70px;
@@ -45,5 +55,9 @@ li {
 pre {
     display: flex;
     justify-content: flex-start;
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 5faeed1 (fix: code block and header markup)
