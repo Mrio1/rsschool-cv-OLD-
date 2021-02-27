@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #e0dca0ee;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1024px;
+    margin: auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.87);
+}
+
+header {
+    order: 1;
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+    margin-top: 70px;
+    left: 60px;
+    transform: rotate(90deg);
+}
+
+h2 {
+    margin-right: 40%;
+    border-bottom: 2px solid black;
+    background-color: #7a7307ee;
+}
+
+ul, p {
+    display: inline-block;
+    padding: 15px;
+}
+
+li {
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+pre {
+    display: flex;
+    justify-content: flex-start;
+}
